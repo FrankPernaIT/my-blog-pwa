@@ -7,7 +7,7 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPM4uKm0CZWhOOad51gw2deACjOJeHTxM2VT699lMLoJy11os3XyGkVls8tRhlm3e2EXxLaLosO0gHNfg47V3ETvzuVbdvmcM5try1kUWJQ74w80ng3kXU8Vob_4uv9wQj2TYLpVvKWpuhyYeAVQ65luqBFoLa6S-UGXlxv6ZHJ72U6qSwrxQ5coSFAKQ/s320/Logo%20512x512.png",
+      "src": "https://raw.githubusercontent.com/FrankPernaIT/my-blog-pwa/refs/heads/main/Logo%20512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
